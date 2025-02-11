@@ -1,7 +1,7 @@
 # Heart Failures Clinics Data Analysis Project
 
 # Mục tiêu
-Mục tiêu của dự án là xây dựng một mô hình dự đoán tỷ lệ tử vong do suy tim dựa trên các thông tin lâm sàng và các yếu tố liên quan. Dự án sử dụng bộ dữ liệu chứa thông tin về bệnh nhân suy tim, bao gồm các thuộc tính lâm sàng và biến mục tiêu DEATH_EVENT (bệnh nhân có tử vong trong thời gian quan sát hay không).
+Mục tiêu project là xây dựng một mô hình dự đoán tỷ lệ tử vong do suy tim dựa trên các thông tin lâm sàng và các yếu tố liên quan. Dự án sử dụng bộ dữ liệu chứa thông tin về bệnh nhân suy tim, bao gồm các thuộc tính lâm sàng và biến mục tiêu DEATH_EVENT (bệnh nhân có tử vong trong thời gian quan sát hay không).
 
 # Dữ liệu
 Bộ dữ liệu: Chứa các thông tin lâm sàng về bệnh nhân suy tim, bao gồm các thuộc tính như age, anaemia, creatinine_phosphokinase, diabetes, ejection_fraction, high_blood_pressure, platelets, serum_creatinine, serum_sodium, sex, smoking, time, và DEATH_EVENT.
